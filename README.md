@@ -1,0 +1,2 @@
+# StringEncryptionCSharp
+C# Encryption utility
