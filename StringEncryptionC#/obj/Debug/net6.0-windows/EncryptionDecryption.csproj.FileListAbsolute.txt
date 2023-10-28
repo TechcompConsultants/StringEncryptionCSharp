@@ -1,0 +1,16 @@
+C:\CodeBase\StringEncryptionC#\bin\Debug\net6.0-windows\EncryptionDecryption.exe
+C:\CodeBase\StringEncryptionC#\bin\Debug\net6.0-windows\EncryptionDecryption.deps.json
+C:\CodeBase\StringEncryptionC#\bin\Debug\net6.0-windows\EncryptionDecryption.runtimeconfig.json
+C:\CodeBase\StringEncryptionC#\bin\Debug\net6.0-windows\EncryptionDecryption.dll
+C:\CodeBase\StringEncryptionC#\bin\Debug\net6.0-windows\EncryptionDecryption.pdb
+C:\CodeBase\StringEncryptionC#\obj\Debug\net6.0-windows\EncryptionDecryption.EncryptionDecryptionForm.resources
+C:\CodeBase\StringEncryptionC#\obj\Debug\net6.0-windows\EncryptionDecryption.csproj.GenerateResource.cache
+C:\CodeBase\StringEncryptionC#\obj\Debug\net6.0-windows\EncryptionDecryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeBase\StringEncryptionC#\obj\Debug\net6.0-windows\EncryptionDecryption.AssemblyInfoInputs.cache
+C:\CodeBase\StringEncryptionC#\obj\Debug\net6.0-windows\EncryptionDecryption.AssemblyInfo.cs
+C:\CodeBase\StringEncryptionC#\obj\Debug\net6.0-windows\EncryptionDecryption.csproj.CoreCompileInputs.cache
+C:\CodeBase\StringEncryptionC#\obj\Debug\net6.0-windows\EncryptionDecryption.dll
+C:\CodeBase\StringEncryptionC#\obj\Debug\net6.0-windows\refint\EncryptionDecryption.dll
+C:\CodeBase\StringEncryptionC#\obj\Debug\net6.0-windows\EncryptionDecryption.pdb
+C:\CodeBase\StringEncryptionC#\obj\Debug\net6.0-windows\EncryptionDecryption.genruntimeconfig.cache
+C:\CodeBase\StringEncryptionC#\obj\Debug\net6.0-windows\ref\EncryptionDecryption.dll
